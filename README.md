@@ -1,2 +1,0 @@
-# TestingGo
-exploring Go lang
